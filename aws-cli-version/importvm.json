@@ -1,0 +1,10 @@
+[
+  {
+    "Description": "My Server OVA",
+    "Format": "ova",
+    "UserBucket": {
+        "S3Bucket": "name-of-the-bucket",
+        "S3Key": "path/of/the/file.ova"
+    }
+  }
+]
